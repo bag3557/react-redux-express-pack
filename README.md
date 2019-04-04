@@ -31,7 +31,7 @@ npm run client
 
 ### Authors
 
-Brad Traversy & Gregory Assasie
+Ajit Bhaik
 
 ### Version
 
